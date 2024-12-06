@@ -23,7 +23,7 @@ The primary goal of this project is to create a personal portfolio that introduc
 
 #Check out the page
 
-Click []here to visit my portfolio website
+Click  [https://jpriya28.github.io/Portfolio-website/] here to visit my portfolio website
 
 #Contributing
 
