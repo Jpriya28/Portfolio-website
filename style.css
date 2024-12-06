@@ -141,3 +141,23 @@ body{
 
 }
 
+@media (max-width: 600px){
+    .section-one__name{
+        font-size: 35px;
+    }
+    .section-one__role{
+        font-size: 20px !important;
+    }
+
+    .section-five {
+        height: 500px !important;
+    }
+
+}
+
+
+@media (min-width: 900px){
+    .section-body{
+        padding: 5px;
+    }    
+}
